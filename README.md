@@ -1,5 +1,5 @@
 # Prueba
-Este es una prueba
+Esta es una prueba
 # Desarrollador
 Agustin Caudana
 # Tecnologia
